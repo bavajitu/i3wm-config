@@ -18,6 +18,12 @@ Welcome to my dotfiles repository! This repository contains the configuration fi
 - **Custom Keybindings**: Enhanced navigation and management through custom shortcuts in i3 and Rofi.
 - **Aesthetic Consistency**: A cohesive color palette across applications for a pleasant visual experience.
 
+## My Setup
+
+### i3 Window Manager
+![i3 Setup](2.png)
+![i3wm Setup](4.png)
+
 ## Installation
 
 To use my dotfiles, you can clone this repository and symlink the configuration files to your home directory:
